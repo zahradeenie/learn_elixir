@@ -1,4 +1,6 @@
-# LearnElixir
+# Guessing Game in Elixir
+
+Following a tutorial from the interwebs to get more familiar with Elixir.
 
 To start your Phoenix server:
 
